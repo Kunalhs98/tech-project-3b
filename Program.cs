@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+    Author: Kunal Samtani
+    Due Date: 27/09/202
+    Comments: Program displays an array 1-25, no user input
+*/
+using System;
 
 namespace tech_project_3b
 {
